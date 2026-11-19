@@ -1,0 +1,7 @@
+print ("Alat membuat jus buah: ")
+print ("1. Blender")
+print ("2. Pisau")
+print ("3. Saringan")
+print ("4. Gelas")
+print ("5. Sendok")
+print ("6. Talenan")
