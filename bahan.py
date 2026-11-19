@@ -1,0 +1,6 @@
+print ("Bahan membuat jus buah: ")
+print ("1. Buah-buahan segar")
+print ("2. Air")
+print ("3. Gula")
+print ("4. Es batu")
+print ("5. Susu")
